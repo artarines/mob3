@@ -136,8 +136,6 @@ html, body {
         grid-template-rows: auto 1fr auto auto auto; 
         min-height: 100vh; 
         width: 100%;
-        display: flex;
-        flex-direction: column;
     }
     .spacer {
         display: none;
@@ -188,3 +186,4 @@ html, body {
 
 
 }
+
